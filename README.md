@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gulashan Hashami</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate full stack web developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulashanhashami&label=Profile%20views&color=0e75b6&style=flat" alt="gulashanhashami" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulashanhashami" alt="gulashanhashami" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development course at Masai School.**
 
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **gulashan959898@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dubxYFUwtLs2mfhARH0FQw8RtH6_xlB-/view?usp=sharing](https://drive.google.com/file/d/1dubxYFUwtLs2mfhARH0FQw8RtH6_xlB-/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1dubxYFUwtLs2mfhARH0FQw8RtH6_xlB-/view?usp=sharing)
 
 - ⚡ Fun fact **I am curious about new technology.**
 
@@ -28,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulashanhashami&show_icons=true&locale=en&layout=compact" alt="gulashanhashami" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulashanhashami&show_icons=true&locale=en" alt="gulashanhashami" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulashanhashami" alt="gulashanhashami" /></a> </p>

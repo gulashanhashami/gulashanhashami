@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Gulashan Hashami</h1>
 <h3>A passionate full stack web developer from India.</h3>
 
-- 🌱 I’m currently learning **Full Stack Development course at Masai School.**
+- 🌱 I have completed **Full Stack web Development course from Masai School.**
 
 - 👯 I’m looking to collaborate on **some E-commerce projects.**
 

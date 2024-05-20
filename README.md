@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Gulashan Hashami</h1>
 <h3>A passionate full stack web developer from India.</h3>
 
+- 🌱 Full Stack web Developer at **Kisan Network** Jan 2023 - May 2024
+- 🌱 Full Stack web Developer intern at **Notion Infosoft** Aug 2022 - Nov 2022
 - 🌱 I have completed **Full Stack web Development course from Masai School.**
 
 - 👯 I’m looking to collaborate on **some E-commerce projects.**
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **gulashan959898@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1dubxYFUwtLs2mfhARH0FQw8RtH6_xlB-/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1GhhS1UMlAEgIArrRvSEMg7aMrmUUexoF/view?usp=sharing)
 
 - ⚡ Fun fact **I am curious about new technology.**
 

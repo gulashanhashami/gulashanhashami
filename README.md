@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **some E-commerce projects.**
 
-- 💬 Ask me about **HTML, CSS, DOM, JavaScript, MERN Stack.**
+- 💬 Ask me about **HTML, CSS, DOM, JavaScript, MySQL, MERN Stack.**
 
 - 📫 How to reach me **gulashan959898@gmail.com**
 

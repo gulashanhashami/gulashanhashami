@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gulashan959898@gmail.com**
 
-- 📄 Know about my experiences [resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6655e5cbf692b89e6c7cd30f)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1GhhS1UMlAEgIArrRvSEMg7aMrmUUexoF/view?usp=sharing)
 
 - ⚡ Fun fact **I am curious about new technology.**
 

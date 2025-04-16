@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **gulashan959898@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1GhhS1UMlAEgIArrRvSEMg7aMrmUUexoF/view?usp=sharing)
 
 - ⚡ Fun fact **I am curious about new technology.**
 

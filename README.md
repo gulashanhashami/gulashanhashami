@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Gulashan Hashami</h1>
 <h3>A passionate full stack web developer from India.</h3>
 
-- 🌱 Full Stack web Developer intern at **Notion Infosoft** Aug 2022 - Nov 2022
 - 🌱 I have completed **Full Stack web Development course from Masai School.**
 
 - 👯 I’m looking to collaborate on **some E-commerce projects.**
